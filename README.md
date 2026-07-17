@@ -17,9 +17,7 @@ This project was developed as part of the **TestMu AI Certified Professional –
 
 The framework is built using **Java**, **Selenium WebDriver**, **TestNG**, **Maven**, and follows the **Page Object Model (POM)** design pattern to create clean, reusable, and maintainable automation scripts.
 
-The automation suite is executed on **LambdaTest Cloud** using **RemoteWebDriver**, enabling cross-browser testing on **Chrome** and **Firefox**.
-
----
+The automation suite is executed on TestMu AI Cloud using RemoteWebDriver, enabling cross-browser testing on Chrome and Firefox.
 
 # 🛠️ Tech Stack
 
